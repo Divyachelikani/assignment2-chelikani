@@ -12,8 +12,8 @@ My favorite game is **Throwball**. Throw ball is my passion. I used to play this
  3. Prajeetha
 
  ## other teams that i think would be good to watch play
- *Lucky Charms
- *Seven Stunners
- *Daily Defense
+ * Lucky Charms
+ * Seven Stunners
+ * Daily Defense
 
 
