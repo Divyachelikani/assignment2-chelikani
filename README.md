@@ -6,10 +6,10 @@ My favorite game is **Throwball**. Throw ball is my passion. I used to play this
 ---
 
 ## Ordered and Unordered list
-**The Avengers**
- 1.Nandhu Narayan
- 2.Abitha
- 3.Prajeetha
+### The Avengers
+ 1. Nandhu Narayan
+ 2. Abitha
+ 3. Prajeetha
 
  ## other teams that i think would be good to watch play
  *Lucky Charms
