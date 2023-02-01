@@ -15,7 +15,18 @@ My favorite game is **Throwball**. Throw ball is my passion. I used to play this
  * Lucky Charms
  * Seven Stunners
  * Daily Defense
- 
- [added link](C:\Users\S556512\Documents\GitHub\assignment2-chelikani\AboutMe.md)
+
+ ![added link](AboutMe.md)
+
+ ---
+
+#  Creating a Table
+I would recommand the people to visit the four countries United states, Malaysia and Singapore. These countries where we can see indians and it is affortable budget to spend with family.
+| Name of the country | Reason to Recommand | Days of spending |
+|---|---|---|
+|United States| It is the largest country world in a area|60 days|
+|Malaysia|It is a multiracial country with a rich cultural heritage|30 days|
+|Singapore|abc|30 days|
+
 
 
