@@ -15,5 +15,7 @@ My favorite game is **Throwball**. Throw ball is my passion. I used to play this
  * Lucky Charms
  * Seven Stunners
  * Daily Defense
+ 
+ [added link](C:\Users\S556512\Documents\GitHub\assignment2-chelikani\AboutMe.md)
 
 
