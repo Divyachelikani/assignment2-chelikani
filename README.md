@@ -16,7 +16,7 @@ My favorite game is **Throwball**. Throw ball is my passion. I used to play this
  * Seven Stunners
  * Daily Defense
 
- ![added link](AboutMe.md)
+ [added link](AboutMe.md)
 
  ---
 
