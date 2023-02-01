@@ -26,14 +26,8 @@ I would recommand the people to visit the four countries United states, Malaysia
 |---|---|---|
 |United States| It is the largest country world in a area|60 days|
 |Malaysia|It is a multiracial country with a rich cultural heritage|30 days|
-|Singapore|Singapore is a small, stable, highly developed country with an elected parliamentary system of government. Tourist facilities are modern and widely available.
-|30 days|
+|Singapore|Singapore is a small, stable, highly developed country with an elected parliamentary system of government. Tourist facilities are modern and widely available|30 days|
 
----
-# Pithy Quotes
->If you can’t live without me, why aren’t you dead already?  -*Cynthia Heimel* 
-
->I don’t hate you. I just don’t like that you exist   – *Gena Showalter*
 
 
 
