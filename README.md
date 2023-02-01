@@ -36,6 +36,8 @@ I would recommand the people to visit the four countries United states, Malaysia
 
 >I don’t hate you. I just don’t like that you exist   – *Gena Showalter*
 
+---
+
 # Code Fencing
 
 # > Is functional programming the hipster programming paradigm?
