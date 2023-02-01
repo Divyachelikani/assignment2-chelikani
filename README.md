@@ -21,12 +21,13 @@ My favorite game is **Throwball**. Throw ball is my passion. I used to play this
  ---
 
 #  Creating a Table
-I would recommand the people to visit the four countries United states, Malaysia and Singapore. These countries where we can see indians and it is affortable budget to spend with family.
+I would recommand the people to visit the four countries United states, Malaysia,Singapore and Dubai. These countries where we can see indians and it is affortable budget to spend with family.
 | Name of the country | Reason to Recommand | Days of spending |
 |---|---|---|
 |United States| It is the largest country world in a area|60 days|
 |Malaysia|It is a multiracial country with a rich cultural heritage|30 days|
 |Singapore|Singapore is a small, stable, highly developed country with an elected parliamentary system of government. Tourist facilities are modern and widely available|30 days|
+|Dubai|Dubai is famous for wealth, being expensive, and being a popular luxury travel destination|30 days
 
 ---
 
